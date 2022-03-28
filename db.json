@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Learn Angular JS",
+      "day": "Mar 28 2022 at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Escott Internal Meeting",
+      "day": "Mar 29 2022 at 3:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "GCP wek 8 1st meeting",
+      "day": "Mar 28 2022 at 4:30pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "GCP wek 8 2nd meeting",
+      "day": "Mar 31 2022 at 5:00pm",
+      "reminder": false
+    }
+  ]
+}
